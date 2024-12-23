@@ -1,4 +1,4 @@
-# ds-eda-project
+# eda-housing-data
 This repo contains an exploratory data analysis (EDA) on King County Housing Data.
 This project is the first formal portfolio project performed in the course of the Spiced Data Science bootcamp.
 
